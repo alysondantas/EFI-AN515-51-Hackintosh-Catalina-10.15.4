@@ -71,3 +71,4 @@ $ sudo pmset -a autopoweroff 0
 
 - Testado na Versão AN515-52, não deu boot. Não indicado.
 - Recomendam * *Main* → Touchpad → **Advanced** (meu touchpad e teclado não funcionam em Advanced)
+- Para modelo AN515-52: https://github.com/skillinhow/Acer-Nitro-5-AN515-52-Hackintosh-Catalina-10.15.4
