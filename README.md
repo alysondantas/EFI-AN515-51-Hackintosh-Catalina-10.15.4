@@ -1,4 +1,4 @@
-# Acer Nitro 5 AN515-51-Hackintosh-Catalina 10.15.4
+# Acer Nitro 5 AN515-51-Hackintosh-Catalina 10.15.4 (Funciona no 10.15.5)
 
 ## Funcionando...
  - [x] Áudio, microfone e headphone jack
